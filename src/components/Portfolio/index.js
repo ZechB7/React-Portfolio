@@ -5,7 +5,7 @@ function Portfolio() {
 
   const [projects] = useState([
     {
-      name: 'calculator',
+      name: 'lightning',
       description: 'JATE',
       link: "https://floating-chamber-47388.herokuapp.com/",
       repo: "https://github.com/ZechB7/Text-editor"
